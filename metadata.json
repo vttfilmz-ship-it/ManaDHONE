@@ -1,0 +1,7 @@
+{
+  "name": "ManaDHONE Directory",
+  "description": "The official business directory for ManaDHONE town. Find local businesses, services, and contacts including phone, WhatsApp, and GPS locations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
